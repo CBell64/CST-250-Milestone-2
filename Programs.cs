@@ -1,7 +1,7 @@
 ﻿using System;
 
-//Joey Gallotta
-//CST-227 Milestone Project
+//Candice B
+//CST-250 Milestone Project
 
 namespace CST_250_Milestone_Project
 {
